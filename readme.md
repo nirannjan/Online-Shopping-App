@@ -51,8 +51,3 @@ Need new page just run : ng generate component yourpage
 
 For deploy on your web host you need build this angular shop apps, just run : ng build
 
-For documentation and demo : [https://www.hockeycomputindo.com/2021/01/angular-new-online-shop-modern-free.html](https://www.hockeycomputindo.com/2021/01/angular-new-online-shop-modern-free.html)
-
-[Play video demo](https://youtu.be/-xXcpctuheo)
-
-Happy codding !!
